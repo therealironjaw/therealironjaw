@@ -9,4 +9,3 @@ I build tools that take the manual work out of legal and risk processes.
 - Excel dashboards
 - Trading analytics and indicators in Pine Script for TradingView 
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/faikha)
