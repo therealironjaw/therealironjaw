@@ -1,8 +1,6 @@
 ## Hi, I'm Faisel
 
-I'm a legal and compliance professional based in London, with 9+ years across
-AML/KYC, eDiscovery and regulatory risk assurance. I build tools that take the manual work out
-of legal and risk processes.
+I build tools that take the manual work out of legal and risk processes.
 
 **What I work on**
 - Workflow automation for legal and audit processes (PowerShell, Power Platform, Microsoft 365)
